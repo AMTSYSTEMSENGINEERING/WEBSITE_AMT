@@ -40,7 +40,7 @@ const HomePage = (props) => {
                     Le train du developpement et de l'inovation techonologique . nous somme une agence digital de developpement de logiciel.
                     Le train du developpement et de l'inovation techonologique , nous somme une agence digital de developpement de logiciel
                     Le train du developpement et de l'inovation techonologique  nous somme une agence digital de developpement de logiciel
-                    Le train du developpement et de l'inovation techonologique  nous somme une agence digital de developpement de logiciel.
+                    Le train du developpement et de l'inovation techonologique,  nous somme une agence digital de developpement de logiciel.
 
                   </h2>
 
